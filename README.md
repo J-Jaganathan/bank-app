@@ -41,9 +41,9 @@ This is a **Bank App** project designed to help users manage their financial acc
 2. Then, install Packages for React, TypeScript, NextJS and TailWindCSS
 
 ## For Beginners who are starting out
-1.Do change the logo in svg format for responsiveness
-2.Change the base color
-3.Add some functionalites
+1. Do change the logo in svg format for responsiveness
+2. Change the base color
+3. Add some functionalities
 
 ## Guidance Video
 For more info, check out this video, install all of his assets for 1st project in his video
